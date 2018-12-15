@@ -78,7 +78,7 @@ ga_domain: #huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "科学理性无从替人类的价值建立一个理性的标准<br>人生は自分を探す旅です"
+sidebar-about-description: "君子不器"
 sidebar-avatar: /img/avatar-helywin.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
