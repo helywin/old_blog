@@ -8,7 +8,8 @@ header-img: img/FishingWarehouses.jpg
 catalog: true
 header-style: text
 tags:
-  - Qt MySQL
+  - Qt
+  - MySQL
 ---
 
 ## Qt MySQL库问题

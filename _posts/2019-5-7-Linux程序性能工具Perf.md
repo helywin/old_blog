@@ -8,7 +8,8 @@ header-img: img/FishingWarehouses.jpg
 catalog: true
 header-style: text
 tags:
-  - Linux Perf
+  - Linux
+  - Perf
 ---
 
 ## Linux程序性能工具Perf
